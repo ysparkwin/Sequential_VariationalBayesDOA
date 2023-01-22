@@ -18,6 +18,9 @@ The codes provide:
 
 [[pdf]](https://www.dropbox.com/sh/qgi9symf43rki41/AADSrGg567PS86_S4A7j6aWEa?dl=0)  
 
+-[M.-A. Badiu, T. L. Hansen, and B. H. Fleury, “Variational Bayesian inference of line spectra,” IEEE Trans. Signal Process. 65(9) (2017), pp. 2247–2261.](https://ieeexplore.ieee.org/abstract/document/7827161?casa_token=0hexzsSvHEkAAAAA:cNaPS8ZqfN1TT3dueLPXZMqc86OBIiLb3q_DPnAnz728_5gX2dimYDrhjy1DwCJyFBGadWCH6rA)  
+-[J. Zhu, Q. Zhang, P. Gerstoft, M.-A. Badiu, and Z. Xu, “Grid-less variational Bayesian line spectral estimation with multiple measurement vectors,” Signal Processing 161 (2019), pp. 155–164.](https://www.sciencedirect.com/science/article/pii/S0165168419301173?casa_token=lG-8B0y74_8AAAAA:EEpg0-90WSlh9p8yk-8-hNk1eqgCd7xSxrvGdAq5AektWe9gpU0lfTvD2mXkSuNspqbuMhNGJpo)  
+
 # Updates
 
 Version 1.0: (01/21/2023 by Y. Park)
