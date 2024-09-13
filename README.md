@@ -12,7 +12,7 @@ The codes provide:
 
 # Citation
 
--**[Y. Park, F. Meyer, and P. Gerstoft, “Graph-Based Estimation of Time-Varying DOAs,” J. Acoust. Soc. Am. 153(1) (2023).](https://arxiv.org/abs/2208.12472)**  
+-**[Y. Park, F. Meyer, and P. Gerstoft, “Graph-based sequential beamforming,” J. Acoust. Soc. Am. 153(1) (2023).](https://doi.org/10.1121/10.0016876)**  
 -[F. Meyer, Y. Park, and P. Gerstoft, “Variational Bayesian estimation of time-varying DOAs,” in Proc. IEEE FUSION (2020), pp. 1–6.](https://ieeexplore.ieee.org/abstract/document/9190217)  
 -[Y. Park, F. Meyer, and P. Gerstoft, “Learning-Aided Initialization for Variational Bayesian DOA Estimation,” in Proc. IEEE ICASSP (2022), pp. 4938–4942.](https://ieeexplore.ieee.org/abstract/document/9746180)  
 
@@ -20,6 +20,9 @@ The codes provide:
 
 -[M.-A. Badiu, T. L. Hansen, and B. H. Fleury, “Variational Bayesian inference of line spectra,” IEEE Trans. Signal Process. 65(9) (2017), pp. 2247–2261.](https://ieeexplore.ieee.org/abstract/document/7827161?casa_token=0hexzsSvHEkAAAAA:cNaPS8ZqfN1TT3dueLPXZMqc86OBIiLb3q_DPnAnz728_5gX2dimYDrhjy1DwCJyFBGadWCH6rA)  
 -[J. Zhu, Q. Zhang, P. Gerstoft, M.-A. Badiu, and Z. Xu, “Grid-less variational Bayesian line spectral estimation with multiple measurement vectors,” Signal Processing 161 (2019), pp. 155–164.](https://www.sciencedirect.com/science/article/pii/S0165168419301173?casa_token=lG-8B0y74_8AAAAA:EEpg0-90WSlh9p8yk-8-hNk1eqgCd7xSxrvGdAq5AektWe9gpU0lfTvD2mXkSuNspqbuMhNGJpo)  
+
+Sparse Bayesian learning (SBL) implementation is also available. [[CODE]](https://github.com/ysparkwin/Sequential_SBL)  
+-[Y. Park, F. Meyer, and P. Gerstoft, “Sequential sparse Bayesian learning for time-varying direction of arrival,” J. Acoust. Soc. Am. 149(3) (2021).](https://doi.org/10.1121/10.0003802)  
 
 # Updates
 
