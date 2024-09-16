@@ -1,5 +1,5 @@
 % Version 1.0: (01/21/2023)
-% written by Y. Park
+% written by Yongsung Park
 
 % Yongsung Park, Florian Meyer, & Peter Gerstoft
 % MPL/SIO/UCSD
@@ -7,9 +7,12 @@
 % noiselab.ucsd.edu
 
 % Citation
-% Y. Park, F. Meyer, and P. Gerstoft, "Graph-based sequential beamforming," J.Acoust.Soc.Am. 153(1), (2023).
+% Y. Park, F. Meyer, and P. Gerstoft, "Graph-based sequential beamforming," J. Acoust. Soc. Am. 153(1), (2023).
+% https://doi.org/10.1121/10.0016876
 % F. Meyer, Y. Park, and P. Gerstoft, "Variational Bayesian estimation of time-varying DOAs," in Proc. IEEE FUSION (2020), pp. 1–6.
+% https://doi.org/10.23919/FUSION45008.2020.9190217
 % Y. Park, F. Meyer, and P. Gerstoft, "Learning-Aided Initialization for Variational Bayesian DOA Estimation," in Proc. IEEE ICASSP (2022), pp. 4938–4942.
+% https://doi.org/10.1109/ICASSP43922.2022.9746180
 
 %%
 clear; clc;
