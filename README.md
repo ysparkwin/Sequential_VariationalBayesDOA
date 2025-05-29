@@ -30,9 +30,10 @@ Version 1.0: (01/21/2023 by Y. Park)
 
 # Contact
 
-[Yongsung Park](https://scholar.google.com/citations?user=kYGe18EAAAAJ&hl=en&oi=ao), [Florian Meyer](https://scholar.google.com/citations?user=XnMK9VcAAAAJ&hl=en&oi=ao), & [Peter Gerstoft](https://scholar.google.com/citations?user=oLMfDnYAAAAJ&hl=en)  
+[Yongsung Park](https://scholar.google.com/citations?user=jcMeNjMAAAAJ&hl=en&oi=ao), [Florian Meyer](https://scholar.google.com/citations?user=XnMK9VcAAAAJ&hl=en&oi=ao), & [Peter Gerstoft](https://scholar.google.com/citations?user=oLMfDnYAAAAJ&hl=en)  
+AOPE/WHOI  
 MPL/SIO/UCSD  
-yongsungpark@ucsd.edu  
+yongsung.park@whoi.edu  
 flmeyer@ucsd.edu  
 gerstoft@ucsd.edu  
 ## [Noiselab](http://noiselab.ucsd.edu/) / [F. Meyer's lab](http://fmeyer.ucsd.edu/)
